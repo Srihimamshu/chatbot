@@ -1,0 +1,3 @@
+
+This is an ongoing bot development. I am yet to learn and there will be lot of changes in the furter code
+The bot is yet to be trained and deployed
